@@ -15,10 +15,11 @@
     border-radius: 4px;
     color: $text;
     font-weight: 700;
-    background: $blue-black;
+    background: $darkgrey;
     &:hover {
-      color: $white;
-      background: $primary-color;      
+      background: darken(#26272B, 3%);
+      color: $primary-color;
+      transition: $global-transition;      
     }
   }
 }

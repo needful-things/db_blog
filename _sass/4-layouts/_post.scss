@@ -32,7 +32,7 @@
 }
 
 .post-head, .post-content {
-  background: rgba($blue-darken, .95);
+  background: rgba($lightgrey, .95);
 }
 
 .post-content {
@@ -161,10 +161,10 @@
 .prev, .next {
   flex-basis: 100%;
   padding: 15px;
-  background: #26272B;
+  background: $darkgrey;
   &:hover {
     background: darken(#26272B, 3%);
-    .post-nav-title {
+    .post-nav-title, .post-nav-arrow  {
       color: $primary-color;
       transition: $global-transition;
     }
@@ -191,7 +191,7 @@
 // COMMENTS SECTION
 .comments {
   padding: 0 15px;
-  background: $blue-darken;
+  background: $lightgrey;
 }
 
 // MEDIA

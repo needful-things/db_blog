@@ -5,7 +5,7 @@
 .widget {
   padding: 40px 15px;
   margin-bottom: 30px;
-  background: rgba($blue-darken, .95);
+  background: rgba($lightgrey, .95);
   box-shadow: 0 9px 18px 0 rgba(0, 0, 0, 0.25);
   .widget-title {
     position: relative;
@@ -209,11 +209,14 @@
     font-size: 14px;
     font-weight: 700;
     cursor: pointer;
-    color: $white;
-    background: $blue-black;
+    // color: $white;
+    background: $darkgrey;
     transition: $global-transition;
     &:hover {
-      background: $primary-color;
+      //background: $primary-color;
+      background: darken(#26272B, 3%);
+      color: $primary-color;
+      //transition: $global-transition;
     }
   }
 }
@@ -232,10 +235,11 @@
       font-size: 12px;
       border-radius: $global-radius;
       color: $text;
-      background: $blue-black;
+      background: $darkgrey;
       &:hover {
-        color: $white;
-        background: $primary-color;
+        background: darken(#26272B, 3%);
+        color: $primary-color;
+        transition: $global-transition;
       }
     }
   }

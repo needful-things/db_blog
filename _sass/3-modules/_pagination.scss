@@ -17,10 +17,12 @@
         line-height: 18px;
         font-weight: bold;
         color: $text;
-        background: rgba($blue-darken, .95);
+        background: rgba($darkgrey, .95);
         transition: $global-transition;
         &:hover {
-          background: rgba(28, 29, 31, 0.95);
+          background: darken(#26272B, 3%);
+          color: $primary-color;
+          transition: $global-transition;
         }
       }
     }
