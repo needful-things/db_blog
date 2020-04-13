@@ -10,25 +10,33 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # About Section
 author-name:   Needful things
-author-avatar: 
+author-avatar: ILoveCoffee-quadrat.png
 
 
 #-------------------------------
 # Contact links
-facebook:  https://facebook.com/ # Add your Facebook handle
-twitter:   https://twitter.com/ # Add your Facebook handle
-instagram: https://www.instagram.com/ # Add your Facebook handle
-pinterest: https://www.pinterest.com/ # Add your Facebook handle
+#facebook:  https://facebook.com/ # Add your Facebook handle
+#twitter:   https://twitter.com/ # Add your Facebook handle
+#instagram: https://www.instagram.com/ # Add your Facebook handle
+#pinterest: https://www.pinterest.com/ # Add your Facebook handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: d-bueltmann-ch # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
 instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
+
+#-------------------------------
+# widget-newsletter
+widget-newsletter: false # To enable the instafeed, use the value true. To turn off use the value false.
+
+#-------------------------------
+# widget-social
+widget-social: false # To enable the widget-social, use the value true. To turn off use the value false.
 
 
 #-------------------------------
