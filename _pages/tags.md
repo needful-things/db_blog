@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Tags in Blog
-image: 10.jpg
+title: Tags
 permalink: /tags/
 ---
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
