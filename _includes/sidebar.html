@@ -23,6 +23,15 @@
   {% else %}
   {% endif %}
 
+  <div class="widget widget-social">
+    <h3 class="widget-title">Get the latest news via RSS</h3>
+    <ul class="social-profiles list-reset">
+      <li class="social-profiles-item">
+        <a href="{{ site.baseurl }}/feed.xml" target="_blank" rel="noopener" class="social-profiles-link"><i class="ion ion-logo-rss"></i></a>
+      </li>
+    </ul>
+  </div>
+
   {% if site.social == true %}
   <div class="widget widget-social">
     <h3 class="widget-title">Subscribe & Follow</h3>
