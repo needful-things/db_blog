@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### Hallo lieber Leser und willkommen zu meinem Blog ###
 #### Worum geht es in diesem Blog ####
-Ich nutze diesen Blog vor allem um meine Erfahrungen und Erkenntnisse so wie auch meinen Lernfortschritt in den Bereichen Cybersecurity und Informations Sicherheit zu Dokumentieren. Die Inhalte und Themen die ich behandle werden nach meiner Lust und Laune bestimmt aber mein Fokus wird bei Writeups von Security Challenges liegen. Ich hoffe, dass ihr vielleicht ein paar nützliche Tipps und Tricks aus meinem Blog entnehmen könnt.
+Ich nutze diesen Blog vor allem um meine Erfahrungen und Erkenntnisse so wie auch meinen Lernfortschritt in den Bereichen Cybersecurity und Informationssicherheit zu Dokumentieren. Die Inhalte und Themen die ich behandle werden nach meiner Lust und Laune bestimmt aber mein Fokus wird bei Writeups von Security Challenges liegen. Ich hoffe, dass ihr vielleicht ein paar nützliche Tipps und Tricks aus meinem Blog entnehmen könnt.
 
 #### Dokumentation ####
 Oben in der Navigation solltet ihr einen Abschnitt „Docs“ sehen. Dieser Abschnitt wird euch zu meiner Dokumentationsseite führen, in welcher ich Befehle, Scripts oder auch nützliche Tools dokumentiere. Die Notizen dort sind für mich gedacht, ich freue mich aber sollten sie euch hilfreich sein. Ich gebe aber zu, dass die Gliederung etwas chaotisch ist. Der Zeitpunkt, wann ich dort aufräumen werde, wird wahrscheinlich noch in weiter Ferne liegen.
