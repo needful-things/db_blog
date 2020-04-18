@@ -27,6 +27,19 @@
   }
 }
 
+// Quick intro
+.quick-intro {
+  padding: 35px !important;
+  text-align: justify;
+  line-height: normal;
+  display: block;
+  .intro-img-resize {
+    max-width:60%;
+    max-height:60%;
+    margin-bottom: 20px;
+  }
+}
+
 // Recent Widget
 .recent-posts {
   display: flex;
