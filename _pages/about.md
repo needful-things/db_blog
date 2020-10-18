@@ -13,14 +13,11 @@ Oben in der Navigation solltet ihr einen Abschnitt „Docs“ sehen. Dieser Absc
 #### Zu meiner Person ####
 Mein Hintergrund liegt in der IT, genauer in der Systemtechnik. Ehrlich gesagt bin ich kein grosser Programmierer aber ich finde das Programmieren an sich eine lustige und auch kreative Sache. Persönlich habe grossen Gefallen daran gefunden mich mit der Cybersecurity auseinander zu setzen und auch Security Challenges auf diversen Seiten zu lösen. Momentan bin ich beruflich als IT Systemtechniker unterwegs und absolviere berufsbegleitend ein Studium mit Fachrichtung Cybersecurity.
 
-#### Ziel ####
-Eines meiner Ziele wird es sein, dass allseits beliebte OSCP Zertifikat zu erlangen und beruflich als Red Teamer anzufangen.
-
 ---
 
 Fühlt euch frei einen Kommentar unter meinen Posts zu schreiben wie ihr gewisse Dinge seht oder gelöst habt. Sollten Euch Fehler auffallen, bin ich noch so froh, wenn Ihr mich in die richtige Richtung weist.
 
 Gerne könnt Ihr mich bei einem Anliegen direkt anschreiben.<br>
-**Email:** d (dot) bueltmann (at) gmx (dot) ch
+**Email:** d (at) bueltmann (dot) ch
 
 <div style="text-align:center"><img src="{{site.baseurl}}/img/ILoveCoffee-addicted.png" /></div>
